@@ -1,0 +1,258 @@
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\OnlineShop.dll.config
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\OnlineShop.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\OnlineShop.pdb
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\BotDetect.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\BotDetect.Web.Mvc.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\CKFinder.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Common.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\EntityFramework.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Facebook.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Google.Apis.Auth.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Google.Apis.Auth.Mvc.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Google.Apis.Core.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Google.Apis.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Google.Apis.PlatformServices.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\JWT.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Models.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Newtonsoft.Json.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Owin.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\PagedList.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\PagedList.Mvc.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\PayPal.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\RestSharp.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\StaticResources.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\System.Net.Http.Formatting.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\System.Web.Helpers.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\System.Web.Http.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\System.Web.Http.WebHost.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\System.Web.Mvc.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\System.Web.Razor.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\System.Web.WebPages.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Common.pdb
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Models.pdb
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Models.dll.config
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\StaticResources.pdb
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\CKFinder.pdb
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\EntityFramework.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Facebook.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Google.Apis.pdb
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Google.Apis.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Google.Apis.Auth.pdb
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Google.Apis.Auth.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Google.Apis.Auth.Mvc.pdb
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Google.Apis.Auth.Mvc.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Google.Apis.Core.pdb
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Google.Apis.Core.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\Newtonsoft.Json.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\PagedList.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\PagedList.Mvc.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\PayPal.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\RestSharp.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\System.Net.Http.Formatting.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\System.Web.Razor.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\System.Web.Helpers.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\System.Web.Http.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\System.Web.Http.WebHost.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\System.Web.Mvc.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\System.Web.WebPages.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\bin\en\StaticResources.resources.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\obj\Debug\OnlineShop.csprojAssemblyReference.cache
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\Kim tuc\Downloads\abc\Nhom6\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\DoAn\Nhom6\OnlineShop\bin\OnlineShop.dll.config
+C:\DoAn\Nhom6\OnlineShop\bin\OnlineShop.dll
+C:\DoAn\Nhom6\OnlineShop\bin\OnlineShop.pdb
+C:\DoAn\Nhom6\OnlineShop\bin\BotDetect.dll
+C:\DoAn\Nhom6\OnlineShop\bin\BotDetect.Web.Mvc.dll
+C:\DoAn\Nhom6\OnlineShop\bin\CKFinder.dll
+C:\DoAn\Nhom6\OnlineShop\bin\Common.dll
+C:\DoAn\Nhom6\OnlineShop\bin\EntityFramework.dll
+C:\DoAn\Nhom6\OnlineShop\bin\EntityFramework.SqlServer.dll
+C:\DoAn\Nhom6\OnlineShop\bin\Facebook.dll
+C:\DoAn\Nhom6\OnlineShop\bin\Google.Apis.Auth.dll
+C:\DoAn\Nhom6\OnlineShop\bin\Google.Apis.Auth.Mvc.dll
+C:\DoAn\Nhom6\OnlineShop\bin\Google.Apis.Auth.PlatformServices.dll
+C:\DoAn\Nhom6\OnlineShop\bin\Google.Apis.Core.dll
+C:\DoAn\Nhom6\OnlineShop\bin\Google.Apis.dll
+C:\DoAn\Nhom6\OnlineShop\bin\Google.Apis.PlatformServices.dll
+C:\DoAn\Nhom6\OnlineShop\bin\JWT.dll
+C:\DoAn\Nhom6\OnlineShop\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\DoAn\Nhom6\OnlineShop\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\DoAn\Nhom6\OnlineShop\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\DoAn\Nhom6\OnlineShop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DoAn\Nhom6\OnlineShop\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DoAn\Nhom6\OnlineShop\bin\Microsoft.Extensions.Logging.dll
+C:\DoAn\Nhom6\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\DoAn\Nhom6\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+C:\DoAn\Nhom6\OnlineShop\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\DoAn\Nhom6\OnlineShop\bin\Models.dll
+C:\DoAn\Nhom6\OnlineShop\bin\Newtonsoft.Json.dll
+C:\DoAn\Nhom6\OnlineShop\bin\Owin.dll
+C:\DoAn\Nhom6\OnlineShop\bin\PagedList.dll
+C:\DoAn\Nhom6\OnlineShop\bin\PagedList.Mvc.dll
+C:\DoAn\Nhom6\OnlineShop\bin\PayPal.dll
+C:\DoAn\Nhom6\OnlineShop\bin\RestSharp.dll
+C:\DoAn\Nhom6\OnlineShop\bin\StaticResources.dll
+C:\DoAn\Nhom6\OnlineShop\bin\System.Net.Http.Formatting.dll
+C:\DoAn\Nhom6\OnlineShop\bin\System.Web.Helpers.dll
+C:\DoAn\Nhom6\OnlineShop\bin\System.Web.Http.dll
+C:\DoAn\Nhom6\OnlineShop\bin\System.Web.Http.WebHost.dll
+C:\DoAn\Nhom6\OnlineShop\bin\System.Web.Mvc.dll
+C:\DoAn\Nhom6\OnlineShop\bin\System.Web.Razor.dll
+C:\DoAn\Nhom6\OnlineShop\bin\System.Web.WebPages.Deployment.dll
+C:\DoAn\Nhom6\OnlineShop\bin\System.Web.WebPages.dll
+C:\DoAn\Nhom6\OnlineShop\bin\System.Web.WebPages.Razor.dll
+C:\DoAn\Nhom6\OnlineShop\bin\Common.pdb
+C:\DoAn\Nhom6\OnlineShop\bin\Models.pdb
+C:\DoAn\Nhom6\OnlineShop\bin\Models.dll.config
+C:\DoAn\Nhom6\OnlineShop\bin\StaticResources.pdb
+C:\DoAn\Nhom6\OnlineShop\bin\CKFinder.pdb
+C:\DoAn\Nhom6\OnlineShop\bin\EntityFramework.xml
+C:\DoAn\Nhom6\OnlineShop\bin\EntityFramework.SqlServer.xml
+C:\DoAn\Nhom6\OnlineShop\bin\Facebook.xml
+C:\DoAn\Nhom6\OnlineShop\bin\Google.Apis.pdb
+C:\DoAn\Nhom6\OnlineShop\bin\Google.Apis.xml
+C:\DoAn\Nhom6\OnlineShop\bin\Google.Apis.Auth.pdb
+C:\DoAn\Nhom6\OnlineShop\bin\Google.Apis.Auth.xml
+C:\DoAn\Nhom6\OnlineShop\bin\Google.Apis.Auth.Mvc.pdb
+C:\DoAn\Nhom6\OnlineShop\bin\Google.Apis.Auth.Mvc.xml
+C:\DoAn\Nhom6\OnlineShop\bin\Google.Apis.Core.pdb
+C:\DoAn\Nhom6\OnlineShop\bin\Google.Apis.Core.xml
+C:\DoAn\Nhom6\OnlineShop\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\DoAn\Nhom6\OnlineShop\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\DoAn\Nhom6\OnlineShop\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\DoAn\Nhom6\OnlineShop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\DoAn\Nhom6\OnlineShop\bin\Microsoft.Extensions.Logging.xml
+C:\DoAn\Nhom6\OnlineShop\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\DoAn\Nhom6\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\DoAn\Nhom6\OnlineShop\bin\Newtonsoft.Json.xml
+C:\DoAn\Nhom6\OnlineShop\bin\PagedList.xml
+C:\DoAn\Nhom6\OnlineShop\bin\PagedList.Mvc.xml
+C:\DoAn\Nhom6\OnlineShop\bin\PayPal.xml
+C:\DoAn\Nhom6\OnlineShop\bin\RestSharp.xml
+C:\DoAn\Nhom6\OnlineShop\bin\System.Net.Http.Formatting.xml
+C:\DoAn\Nhom6\OnlineShop\bin\System.Web.Razor.xml
+C:\DoAn\Nhom6\OnlineShop\bin\System.Web.Helpers.xml
+C:\DoAn\Nhom6\OnlineShop\bin\System.Web.Http.xml
+C:\DoAn\Nhom6\OnlineShop\bin\System.Web.Http.WebHost.xml
+C:\DoAn\Nhom6\OnlineShop\bin\System.Web.Mvc.xml
+C:\DoAn\Nhom6\OnlineShop\bin\System.Web.WebPages.xml
+C:\DoAn\Nhom6\OnlineShop\bin\System.Web.WebPages.Deployment.xml
+C:\DoAn\Nhom6\OnlineShop\bin\System.Web.WebPages.Razor.xml
+C:\DoAn\Nhom6\OnlineShop\bin\en\StaticResources.resources.dll
+C:\DoAn\Nhom6\OnlineShop\obj\Debug\OnlineShop.csprojAssemblyReference.cache
+C:\DoAn\Nhom6\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+C:\DoAn\Nhom6\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+C:\DoAn\Nhom6\OnlineShop\obj\Debug\OnlineShop.dll
+C:\DoAn\Nhom6\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\DoAn\YBStore\OnlineShop\bin\OnlineShop.dll.config
+C:\DoAn\YBStore\OnlineShop\bin\OnlineShop.dll
+C:\DoAn\YBStore\OnlineShop\bin\OnlineShop.pdb
+C:\DoAn\YBStore\OnlineShop\bin\BotDetect.dll
+C:\DoAn\YBStore\OnlineShop\bin\BotDetect.Web.Mvc.dll
+C:\DoAn\YBStore\OnlineShop\bin\CKFinder.dll
+C:\DoAn\YBStore\OnlineShop\bin\Common.dll
+C:\DoAn\YBStore\OnlineShop\bin\EntityFramework.dll
+C:\DoAn\YBStore\OnlineShop\bin\EntityFramework.SqlServer.dll
+C:\DoAn\YBStore\OnlineShop\bin\Facebook.dll
+C:\DoAn\YBStore\OnlineShop\bin\Google.Apis.Auth.dll
+C:\DoAn\YBStore\OnlineShop\bin\Google.Apis.Auth.Mvc.dll
+C:\DoAn\YBStore\OnlineShop\bin\Google.Apis.Auth.PlatformServices.dll
+C:\DoAn\YBStore\OnlineShop\bin\Google.Apis.Core.dll
+C:\DoAn\YBStore\OnlineShop\bin\Google.Apis.dll
+C:\DoAn\YBStore\OnlineShop\bin\Google.Apis.PlatformServices.dll
+C:\DoAn\YBStore\OnlineShop\bin\JWT.dll
+C:\DoAn\YBStore\OnlineShop\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\DoAn\YBStore\OnlineShop\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\DoAn\YBStore\OnlineShop\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\DoAn\YBStore\OnlineShop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DoAn\YBStore\OnlineShop\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DoAn\YBStore\OnlineShop\bin\Microsoft.Extensions.Logging.dll
+C:\DoAn\YBStore\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\DoAn\YBStore\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+C:\DoAn\YBStore\OnlineShop\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\DoAn\YBStore\OnlineShop\bin\Models.dll
+C:\DoAn\YBStore\OnlineShop\bin\Newtonsoft.Json.dll
+C:\DoAn\YBStore\OnlineShop\bin\Owin.dll
+C:\DoAn\YBStore\OnlineShop\bin\PagedList.dll
+C:\DoAn\YBStore\OnlineShop\bin\PagedList.Mvc.dll
+C:\DoAn\YBStore\OnlineShop\bin\PayPal.dll
+C:\DoAn\YBStore\OnlineShop\bin\RestSharp.dll
+C:\DoAn\YBStore\OnlineShop\bin\StaticResources.dll
+C:\DoAn\YBStore\OnlineShop\bin\System.Net.Http.Formatting.dll
+C:\DoAn\YBStore\OnlineShop\bin\System.Web.Helpers.dll
+C:\DoAn\YBStore\OnlineShop\bin\System.Web.Http.dll
+C:\DoAn\YBStore\OnlineShop\bin\System.Web.Http.WebHost.dll
+C:\DoAn\YBStore\OnlineShop\bin\System.Web.Mvc.dll
+C:\DoAn\YBStore\OnlineShop\bin\System.Web.Razor.dll
+C:\DoAn\YBStore\OnlineShop\bin\System.Web.WebPages.Deployment.dll
+C:\DoAn\YBStore\OnlineShop\bin\System.Web.WebPages.dll
+C:\DoAn\YBStore\OnlineShop\bin\System.Web.WebPages.Razor.dll
+C:\DoAn\YBStore\OnlineShop\bin\Common.pdb
+C:\DoAn\YBStore\OnlineShop\bin\Models.pdb
+C:\DoAn\YBStore\OnlineShop\bin\Models.dll.config
+C:\DoAn\YBStore\OnlineShop\bin\StaticResources.pdb
+C:\DoAn\YBStore\OnlineShop\bin\CKFinder.pdb
+C:\DoAn\YBStore\OnlineShop\bin\EntityFramework.xml
+C:\DoAn\YBStore\OnlineShop\bin\EntityFramework.SqlServer.xml
+C:\DoAn\YBStore\OnlineShop\bin\Facebook.xml
+C:\DoAn\YBStore\OnlineShop\bin\Google.Apis.pdb
+C:\DoAn\YBStore\OnlineShop\bin\Google.Apis.xml
+C:\DoAn\YBStore\OnlineShop\bin\Google.Apis.Auth.pdb
+C:\DoAn\YBStore\OnlineShop\bin\Google.Apis.Auth.xml
+C:\DoAn\YBStore\OnlineShop\bin\Google.Apis.Auth.Mvc.pdb
+C:\DoAn\YBStore\OnlineShop\bin\Google.Apis.Auth.Mvc.xml
+C:\DoAn\YBStore\OnlineShop\bin\Google.Apis.Core.pdb
+C:\DoAn\YBStore\OnlineShop\bin\Google.Apis.Core.xml
+C:\DoAn\YBStore\OnlineShop\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\DoAn\YBStore\OnlineShop\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\DoAn\YBStore\OnlineShop\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\DoAn\YBStore\OnlineShop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\DoAn\YBStore\OnlineShop\bin\Microsoft.Extensions.Logging.xml
+C:\DoAn\YBStore\OnlineShop\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\DoAn\YBStore\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\DoAn\YBStore\OnlineShop\bin\Newtonsoft.Json.xml
+C:\DoAn\YBStore\OnlineShop\bin\PagedList.xml
+C:\DoAn\YBStore\OnlineShop\bin\PagedList.Mvc.xml
+C:\DoAn\YBStore\OnlineShop\bin\PayPal.xml
+C:\DoAn\YBStore\OnlineShop\bin\RestSharp.xml
+C:\DoAn\YBStore\OnlineShop\bin\System.Net.Http.Formatting.xml
+C:\DoAn\YBStore\OnlineShop\bin\System.Web.Razor.xml
+C:\DoAn\YBStore\OnlineShop\bin\System.Web.Helpers.xml
+C:\DoAn\YBStore\OnlineShop\bin\System.Web.Http.xml
+C:\DoAn\YBStore\OnlineShop\bin\System.Web.Http.WebHost.xml
+C:\DoAn\YBStore\OnlineShop\bin\System.Web.Mvc.xml
+C:\DoAn\YBStore\OnlineShop\bin\System.Web.WebPages.xml
+C:\DoAn\YBStore\OnlineShop\bin\System.Web.WebPages.Deployment.xml
+C:\DoAn\YBStore\OnlineShop\bin\System.Web.WebPages.Razor.xml
+C:\DoAn\YBStore\OnlineShop\bin\en\StaticResources.resources.dll
+C:\DoAn\YBStore\OnlineShop\obj\Debug\OnlineShop.csprojAssemblyReference.cache
+C:\DoAn\YBStore\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+C:\DoAn\YBStore\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+C:\DoAn\YBStore\OnlineShop\obj\Debug\OnlineShop.dll
+C:\DoAn\YBStore\OnlineShop\obj\Debug\OnlineShop.pdb
